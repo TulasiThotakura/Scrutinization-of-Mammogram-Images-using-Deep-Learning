@@ -19,3 +19,7 @@ accuracy for our basic model. Augmentation is a technique for rescaling data and
 When validated on a well-known globally available dataset, the suggested technique yields good results. 
 Pre-trained models are also helpful in medical image analysis, as they execute exactly with a low loss 
 function.
+
+
+The Breast Ultrasound Images Dataset was gathered by Dr. Aly Fahmy and his group. To download the original BUSI dataset. click here
+
