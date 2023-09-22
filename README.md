@@ -21,5 +21,5 @@ Pre-trained models are also helpful in medical image analysis, as they execute e
 function.
 
 
-The Breast Ultrasound Images Dataset was gathered by Dr. Aly Fahmy and his group. To download the original BUSI dataset. click here
+The Breast Ultrasound Images Dataset was gathered by Dr. Aly Fahmy and his group. To download the original BUSI dataset. [https://scholar.cu.edu.eg/Dataset_BUSI.zip]
 
