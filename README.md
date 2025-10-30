@@ -56,3 +56,15 @@ This work demonstrates how deep learning can **accurately detect breast cancer**
 💡 **Insights:**  
 - Base CNN with augmentation outperformed pretrained architectures.  
 - Data augmentation and hyperparameter tuning were critical for improved performance.
+
+---
+
+## 🔗 Published Book Chapter
+**Title:** Scrutinization of Mammogram Images Using Deep Learning  
+**Book:** Computational Intelligence and Modelling Techniques for Disease Detection in Mammogram Images  
+**Publisher:** Elsevier  
+**Year:** 2025  
+**DOI:** [10.1016/B978-0-443-13999-4.00009-2](https://doi.org/10.1016/B978-0-443-13999-4.00009-2)
+
+This book chapter explores the application of **deep learning techniques**—specifically CNN-based architectures such as **ResNet50, DenseNet201, AlexNet, and VGG16**—for the **accurate detection of breast cancer** from mammogram images.
+
