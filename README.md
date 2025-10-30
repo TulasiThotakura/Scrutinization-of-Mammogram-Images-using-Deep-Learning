@@ -65,6 +65,7 @@ This work demonstrates how deep learning can **accurately detect breast cancer**
 **Publisher:** Elsevier  
 **Year:** 2025  
 **DOI:** [10.1016/B978-0-443-13999-4.00009-2](https://doi.org/10.1016/B978-0-443-13999-4.00009-2)
+
 - Citation:
 `Thotakura, Tulasi. "Scrutinization of Mammogram Images Using Deep Learning." 
 In Computational Intelligence and Modelling Techniques for Disease Detection in Mammogram Images, 
