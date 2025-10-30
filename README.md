@@ -1,7 +1,7 @@
 # Scrutinization of Mammogram Images Using Deep Learning 🩺🤖
 
 <p align="center">
-  <img src="./visuals/Banner.jpg" alt="Breast Cancer DL" width="600"/>
+  <img src="./visuals/Banner.png" alt="Breast Cancer DL" width="600"/>
 </p>
 
 ## 📄 Overview
